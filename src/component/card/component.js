@@ -22,10 +22,10 @@ function Cards(props){
             <Card className={classes.card}><img src={Liburs} className={classes.liburan} alt=""/></Card>
         </Grid>
         <Grid item xs={6}>
-            <Card className={classes.card}><img src={Ceria} className={classes.liburan} alt=""/></Card>
+            <Card className={classes.cards}><img src={Ceria} className={classes.liburan} alt=""/></Card>
         </Grid>
         <Grid item xs={6}>
-            <Card className={classes.card}><img src={Deal} className={classes.liburan} alt=""/></Card>
+            <Card className={classes.cards}><img src={Deal} className={classes.liburan} alt=""/></Card>
         </Grid>
     </Grid>
    </Box>

@@ -13,6 +13,11 @@ const Style={
         width:140,
         height:110
     },
+    cards:{
+        marginTop:10 ,
+        width:140,
+        height:110
+    },
     tulis:{
         marginTop:50,
         color:'gray'
